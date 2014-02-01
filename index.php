@@ -1,4 +1,4 @@
-<body style="background: red;">
+<body style="background: #f00;">
 <?php
 echo 'Hello world 0.0.1';
 ?>
