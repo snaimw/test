@@ -1,1 +1,0 @@
-git ftp push --user razbakov --passwd razbakov77 ftp://futurity.pro/home/razbakov/www/codeshiptest.futurity.pro
