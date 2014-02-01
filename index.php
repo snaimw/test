@@ -5,6 +5,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<?php echo 'Hello Masha!'; ?>
+<?php
+    echo 'Hello Masha!';
+?>
 </body>
 </html>
