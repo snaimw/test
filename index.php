@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-    echo 'Hello World CI!';
+    echo 'Hello World Again';
 ?>
 </body>
 </html>
