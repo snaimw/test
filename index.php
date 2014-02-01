@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-    echo 'I love IceCream';
+    echo 'Nice Work';
 ?>
 </body>
 </html>
