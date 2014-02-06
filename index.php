@@ -6,7 +6,9 @@
 </head>
 <body>
 <?php
-    echo 'Hello Masha!';
+    echo 'Gregory Usenko';
+    echo "Denis Kryachko";
+	echo 'Dmitriy Chuiko';
 ?>
 </body>
 </html>
