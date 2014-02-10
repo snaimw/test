@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-    echo 'xxx2';
+    echo 'yyyy';
 ?>
 </body>
 </html>
